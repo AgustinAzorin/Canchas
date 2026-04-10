@@ -1,4 +1,13 @@
-# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+node_modules/
+.env
+.env.local
+.env.*.local
+package-lock.json
+npm-debug.log
+yarn-error.log
+.expo/
+dist/
+build/# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
 # dependencies
 node_modules/

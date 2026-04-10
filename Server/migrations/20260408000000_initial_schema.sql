@@ -1,0 +1,2 @@
+-- Initial migration placeholder for Scout-tracker.
+-- Add your SQL schema changes here as the data model evolves.

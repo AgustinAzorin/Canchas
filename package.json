@@ -1,0 +1,14 @@
+{
+  "name": "scout-tracker",
+  "private": true,
+  "workspaces": [
+    "app"
+  ],
+  "scripts": {
+    "dev": "npm run start --workspace app",
+    "android": "npm run android --workspace app",
+    "ios": "npm run ios --workspace app",
+    "web": "npm run web --workspace app",
+    "typecheck": "npm run typecheck --workspace app"
+  }
+}
